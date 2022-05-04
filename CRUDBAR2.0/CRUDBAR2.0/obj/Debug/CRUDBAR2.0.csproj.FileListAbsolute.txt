@@ -1,0 +1,13 @@
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\CRUDBAR2.0.exe.config
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\CRUDBAR2.0.exe
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\CRUDBAR2.0.pdb
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\EntityFramework.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\EntityFramework.xml
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.csproj.AssemblyReference.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.csproj.SuggestedBindingRedirects.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.csproj.CoreCompileInputs.cache
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.csproj.CopyComplete
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.exe
+C:\Users\Marvi\Documents\GitHub\CRUDBAR2.0\CRUDBAR2.0\obj\Debug\CRUDBAR2.0.pdb
